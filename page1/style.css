@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(150, 141, 141);
+}
+
+h1{
+    text-align: center;
+}
+footer{
+    background-color : gray;
+    margin: 0%auto;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+.home{
+    color: black;
+    background-color: white;
+}
