@@ -2,9 +2,23 @@
     background-color: rgb(150, 141, 141);
 }
 
-h1{
+ header{
+    height: 100px;
+    line-height: 100px;
+    background-color:rgb(54, 168, 54) ;
+    color: white;
     text-align: center;
+    text-size-adjust:90px ;
+    font-weight: bold;
+ }
+section{
+    height: 300px;
+    margin: 1px;
+    width: 60%;
+    
+
 }
+
 footer{
     background-color : gray;
     margin: 0%auto;
@@ -12,7 +26,9 @@ footer{
     text-align: center;
     font-weight: bold;
 }
-.home{
-    color: black;
-    background-color: white;
+.green{
+    color:rgb(54, 168, 54);
+}
+.brown{
+    background-color: rgb(235, 209, 171);
 }
